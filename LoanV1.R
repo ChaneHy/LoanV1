@@ -227,7 +227,7 @@ rsconnect::setAccountInfo(name='your-account-name', token='your-token', secret='
 rsconnect::connectApiUser(server = "connect.posit.cloud", mode = "github")
 
 
-
+rsconnect::writeManifest()
 
 
 
